@@ -12,3 +12,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 apt update -y && apt upgrade -y && apt install -y &&  wget -q https://raw.githubusercontent.com/gemilangvip/ronggolawe/main/anoman.sh && chmod +x anoman.sh && ./anoman.sh
 ```
+## INSTALASI WABOT
+```
+wget -q https://raw.githubusercontent.com/gemilangvip/ronggolawe/main/adipati.sh && chmod +x adipati.sh && ./adipati.sh
+```
